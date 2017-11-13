@@ -1,8 +1,8 @@
 #gulp-svn
-[![NPM version](https://badge.fury.io/js/gulp-svn.png)](http://badge.fury.io/js/gulp-svn)
+[![NPM version](https://badge.fury.io/js/gulp-svn2.png)](http://badge.fury.io/js/gulp-svn2)
 <table>
 <tr>
-<td>Package</td><td>gulp-svn</td>
+<td>Package</td><td>gulp-svn2</td>
 </tr>
 <tr>
 <td>Description</td>
@@ -20,7 +20,7 @@
 
 ## Usage
 ### Install
-    npm install gulp-svn --save
+    npm install gulp-svn2 --save
 
 ## Example
 ```javascript
