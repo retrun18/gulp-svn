@@ -1,11 +1,11 @@
 {
-  "name": "gulp-svn",
-  "version": "1.0.8",
+  "name": "gulp-svn2",
+  "version": "2.0.0",
   "description": "SVN plugin for gulp (gulpjs.com)",
-  "homepage": "https://github.com/yasinkocak/gulp-svn",
+  "homepage": "https://github.com/xsbchen/gulp-svn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yasinkocak/gulp-svn.git"
+    "url": "https://github.com/xsbchen/gulp-svn.git"
   },
   "author": "Yasin Kocak",
   "main": "index.js",
@@ -27,12 +27,12 @@
   "license": "MIT",
   "dependencies": {
     "gulp-util": "^3.0.3",
-    "require-dir": "^0.1.0",
+    "require-dir": "^0.3.2",
     "svn-info": "^0.2.1",
     "svn-project-root": "^0.1.0"
   },
   "bugs": {
-    "url": "https://github.com/yasinkocak/gulp-svn/issues"
+    "url": "https://github.com/xsbchen/gulp-svn/issues"
   },
   "devDependencies": {}
 }
